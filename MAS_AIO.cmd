@@ -214,6 +214,7 @@ echo:             [5] Extras
 echo:             [6] Help
 echo:             [0] Exit                                   
 echo:       ______________________________________________________________
+echo:					DAO NHAT HAO
 echo:
 call :_color2 %_White% "          " %_Green% "Enter a menu option in the Keyboard [1,2,3,4,5,6,0] :"
 choice /C:1234560 /N
@@ -317,6 +318,7 @@ echo:             __________________________________________________
 echo:                                                                   
 echo:             [0] Go Back
 echo:       ______________________________________________________________
+echo:				DAO NHAT HAO
 echo:  
 call :_color2 %_White% "           " %_Green% "Enter a menu option in the Keyboard:"
 choice /C:123450 /N
